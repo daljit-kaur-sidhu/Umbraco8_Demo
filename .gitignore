@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/K_UmbracoDemo/.vs/K_UmbracoDemo
+/K_UmbracoDemo/App_Data/Logs
+/K_UmbracoDemo/App_Data/Models
+/K_UmbracoDemo/App_Data/TEMP
+/K_UmbracoDemo/bin
+/K_UmbracoDemo/obj/Debug
+/K_UmbracoDemo/K_UmbracoDemo.csproj.user
